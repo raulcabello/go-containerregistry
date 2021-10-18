@@ -22,6 +22,7 @@ builds:
     - arm
     - arm64
     - 386
+    - s390x
   goos:
     - linux
     - darwin
